@@ -1,1 +1,2 @@
 # MilesOptimization
+Make the most of your miles when you use our optimization system. Our system allows you to access top attractions based on your flight points. It compares the miles to each location from a selected hometown by the price of each flight to the location. This algorithm gives the ratio to compare which location is worth more in terms of miles and how to save miles efficiently. This process makes the customer experience a lot easier, allowing more people to look into AA's reward system. 
